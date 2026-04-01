@@ -13,8 +13,8 @@ Email: pp.pereira@campus.fct.unl.pt
 
 ```bash
 Git Repository: https://github.com/pedropereira-fct/ADC-IndividualEvaluation-63118
-Google Cloud Deployment: https://adc2526-indeval.ey.r.appspot.com
-Local Deployment: http://localhost:8080
+Google Cloud Deployment URL: https://adc2526-indeval.ey.r.appspot.com/rest/<operation>
+Local Deployment URL: http://localhost:8080/rest/<operation>
 ```
 
 ---
