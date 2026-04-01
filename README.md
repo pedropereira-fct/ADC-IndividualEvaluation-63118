@@ -21,9 +21,8 @@ Local Deployment URL: http://localhost:8080/rest/<operation>
 
 ## Cloning the Project
 
-### 1. Fork and clone the repository
+### 1. Clone the Repository
 
-Clone locally:
 
 ```bash
 git clone git@github.com:pedropereira-fct/ADC-IndividualEvaluation-63118
