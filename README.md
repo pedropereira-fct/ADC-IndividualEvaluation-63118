@@ -25,7 +25,7 @@ Local Deployment URL: http://localhost:8080/rest/<operation>
 
 
 ```bash
-git clone git@github.com:pedropereira-fct/ADC-IndividualEvaluation-63118
+git clone https://github.com/pedropereira-fct/ADC-IndividualEvaluation-63118.git
 cd ind-eval
 ```
 
