@@ -11,7 +11,7 @@ Git Repository: https://github.com/pedropereira-fct/ADC-IndividualEvaluation-631
 
 Google Cloud Deployment: https://adc2526-indeval.appspot.com/
 
-Comandos Úteis:
+Commands:
 
 - mvn clean package
 
